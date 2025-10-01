@@ -1,4 +1,3 @@
-# AiArtLab
 
 **We're the Small Team of Entusiasts** - GPU hobos training cutting-edge AI models on our own dime/time and with community support.
 
