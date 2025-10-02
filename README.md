@@ -13,15 +13,20 @@ Creating **free, compact, and fast** AI models that can be trained on consumer h
 - **Compact**: Runs on consumer graphics cards
 - [huggingface.co/AiArtLab/sdxs](https://huggingface.co/AiArtLab/sdxs)
 
+### AI bot's
+- **Plotva** - [PlotvoBot](https://t.me/PlotvoBot) entertaiment telegram bot with 30k MAU
+
 ### VAE Collection
-Professional VAE models:
+Simple VAE:
+[https://huggingface.co/AiArtLab/simplevae](https://huggingface.co/AiArtLab/simplevae) - SOTA VAE
+Professional VAE models (SDXL/WAN):
 [huggingface.co/collections/AiArtLab/vae-68c834f67bbd7590036d2482](https://huggingface.co/collections/AiArtLab/vae-68c834f67bbd7590036d2482)
 
 ### Stable Diffusion Models
+- **KC** - [https://huggingface.co/AiArtLab/kc](https://huggingface.co/AiArtLab/kc)
 - **ColorfulXL** - [CivitAI](https://civitai.com/models/185258/colorfulxl)
 - **Colorful** - [CivitAI](https://civitai.com/models/7279/colorful)
 - **Animatrix** - [CivitAI](https://civitai.com/models/21916/animatrix)
-
 
 ### GPT-2 Models
 - **Insomnia** - [HuggingFace](https://huggingface.co/recoilme/insomnia_v1)
@@ -40,14 +45,15 @@ We're self-funded and appreciate any support!
 
 ## Donations
 
-Please contact with us if you may provide some GPU's or money on training
-
 DOGE: DEw2DR8C7BnF8GgcrfTzUjSnGkuMeJhg83
 
 BTC: 3JHv9Hb8kEW8zMAccdgCdZGfrHeMhH1rpN
 
 ## Contacts
+Please reach us out if you may provide some GPU's or money on training
+
 
 [recoilme](https://t.me/recoilme)
+[mail@aiartlab.org](mailto:mail@aiartlab.org)
 
 ---
