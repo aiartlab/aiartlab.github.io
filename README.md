@@ -19,6 +19,7 @@ Creating **free, compact, and fast** AI models that can be trained on consumer h
 ### VAE Collection
 Simple VAE:
 [https://huggingface.co/AiArtLab/simplevae](https://huggingface.co/AiArtLab/simplevae) - SOTA VAE
+
 Professional VAE models (SDXL/WAN):
 [huggingface.co/collections/AiArtLab/vae-68c834f67bbd7590036d2482](https://huggingface.co/collections/AiArtLab/vae-68c834f67bbd7590036d2482)
 
@@ -54,6 +55,7 @@ Please reach us out if you may provide some GPU's or money on training
 
 
 [recoilme](https://t.me/recoilme)
+
 [mail@aiartlab.org](mailto:mail@aiartlab.org)
 
 ---
