@@ -29,8 +29,8 @@ Professional VAE models (SDXL/WAN):
 - **Colorful** - [CivitAI](https://civitai.com/models/7279/colorful)
 - **Animatrix** - [CivitAI](https://civitai.com/models/21916/animatrix)
 
-### GPT-2 Models
-- **Insomnia** - [HuggingFace](https://huggingface.co/recoilme/insomnia_v1)
+### LLM's
+- **recoilme-gemma2-9b** - [HF](https://huggingface.co/recoilme/recoilme-gemma-2-9B-v0.5))
 
 ## 🎥 AI Videos
 Check out our creative AI video experiments:
