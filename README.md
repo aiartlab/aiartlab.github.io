@@ -30,7 +30,7 @@ Professional VAE models (SDXL/WAN):
 - **Animatrix** - [CivitAI](https://civitai.com/models/21916/animatrix)
 
 ### LLM's
-- **recoilme-gemma2-9b** - [HF](https://huggingface.co/recoilme/recoilme-gemma-2-9B-v0.5)
+- **recoilme-gemma2-9b** - [v0.2](https://huggingface.co/recoilme/recoilme-gemma-2-9B-v0.2) [v0.5](https://huggingface.co/recoilme/recoilme-gemma-2-9B-v0.5)
 
 ## 🎥 AI Videos
 Check out our creative AI video experiments:
