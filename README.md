@@ -8,10 +8,10 @@ Creating **free, compact, and fast** AI models that can be trained on consumer h
 
 ### Simple Diffusion (SDXS)
 **XS Size, Excess Quality**
-- **SDXS** - Our flagship 1.5B parameter model
+- **SDXS** - Our flagship 1.6B parameter model
 - **Fast**: 1-3 seconds per image generation
 - **Compact**: Runs on consumer graphics cards
-- [huggingface.co/AiArtLab/sdxs](https://huggingface.co/AiArtLab/sdxs)
+- [huggingface.co/AiArtLab/sdxs](https://huggingface.co/AiArtLab/sdxs-1b)
 
 ### AI bot's
 - **Plotva** - [PlotvoBot](https://t.me/PlotvoBot) entertaiment telegram bot with 30k MAU
